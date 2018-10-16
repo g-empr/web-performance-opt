@@ -74,4 +74,8 @@ HTMLパースが止まることなく並行してダウンロード。ダウン�
 #### `.htaccess`や`httpd.conf`で強制的にキャッシュさせる
 Expiresヘッダーをオンにしブラウザに強制的にキャッシュさせる。  
 ただし、更新が多いページなどで使用する場合は画像ファイルなどリネームを頻繁に行う必要がある。
-#### 
+  
+## 参考
+- [ざっくりWEBサイト高速化](https://qiita.com/kazukichi/items/572fc7198e6bb001b25b)
+- [Webページの高速化/最適化まとめ](https://qiita.com/neer_chan/items/2c62fee08489ce30800b)
+- [WEB ページの読み込み時間を短くしよう](https://qiita.com/tomochan154/items/2e2dc7b6eca006b41afb)
