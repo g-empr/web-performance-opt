@@ -1,6 +1,6 @@
 # Webページ表示高速化まとめ
 はじめにchromeのdevツールなどで問題点を可視化しておくと作業が捗る。
-![network](/img/network.png)
+<img src="/img/network.png" alt="network" width="200">
 
 ## クライアントサイド編
 ### リクエスト数を減らす
